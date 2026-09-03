@@ -1,20 +1,37 @@
-# 👋 Salut, moi c'est [Ton Prénom]
+# 👋 Bonjour, je suis Marie Dupont
 
-## 🧑‍💻 À propos de moi
-- 🔭 Je travaille actuellement sur [ton projet actuel]
-- 🌱 J'apprends en ce moment [technologie/langage]
-- 👯 Je cherche à collaborer sur [type de projets]
-- 💬 Demande-moi à propos de [tes compétences]
-- 📫 Comment me joindre : [email ou lien]
-- ⚡ Fun fact : [une anecdote amusante]
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarieDupont&show_icons=true&theme=radical" width="400">
 
-## 🛠️ Compétences techniques
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## 💼 Développeuse Full Stack
 
-## 📊 Statistiques GitHub
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&langs_count=8&layout=compact)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
+Passionnée par le développement web et les technologies open-source.  
+Je construis des applications avec **React**, **Node.js** et **Python**.
+
+- 🌱 J'apprends actuellement **TypeScript** et **GraphQL**
+- 💬 N'hésite pas à me parler de **UX/UI**, **API REST** ou **Jamstack**
+- 📫 Contact : marie@email.com
+
+---
+
+### 🛠️ Outils et technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+### 📈 Statistiques
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarieDupont&layout=compact&theme=radical)
+
+---
+
+### 📌 Projets récents
+
+- [**Mon Portfolio**](lien) - Site vitrine avec React et Framer Motion
+- [**API Météo**](lien) - API Node.js avec Express et OpenWeatherMap
+
+---
+
+⭐️ *N'hésite pas à me suivre ou à contribuer à mes projets !*
