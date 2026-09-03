@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Daniel Khonné — Développeur Web
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Stagiaire;%C3%89tudiant+en+Licence+3+Informatique;Passionn%C3%A9+par+les+bases+de+donn%C3%A9es;Bas%C3%A9+%C3%A0+Toliara%2C+Madagascar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web;%C3%89tudiant+en+Licence+3+Informatique;Passionn%C3%A9+par+les+bases+de+donn%C3%A9es;Bas%C3%A9+%C3%A0+Toliara%2C+Madagascar" alt="Typing SVG" />
 </div>
 
 ---
